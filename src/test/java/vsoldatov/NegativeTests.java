@@ -10,14 +10,14 @@ public class NegativeTests extends TestBase {
 
     @Test(groups = "negative")
     public void test4() throws IOException {
-        File f = new File("/home/vsoldatov/ngunit/test.txt");
+        File f = new File("/home/venom/ngunit/test.txt");
         f.createNewFile();
         Assert.assertFalse(f.createNewFile());
     }
 
     @Test(groups = "negative")
     public void test5() throws IOException {
-        File f = new File("/home/vsoldatov/ngunit/test.asm");
+        File f = new File("/home/venom/ngunit/test.asm");
         f.createNewFile();
         Assert.assertFalse(f.createNewFile());
     }
