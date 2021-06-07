@@ -5,62 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddbc0cdc-67e5-449e-83ce-2f36a8b560a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JUnit/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/main/java/vsoldatov/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/java/vsoldatov/DataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/java/vsoldatov/DataGeneratorTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/java/vsoldatov/ExampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/java/vsoldatov/NegativeTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/java/vsoldatov/PositiveTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/java/vsoldatov/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/resources/namesOfFiles.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/resources/testng-groups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/resources/testng-methods.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/src/test/resources/testng-packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG/vsoldatov.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vsoldatov/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/main/java/vsoldatov/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vsoldatov/DataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/java/vsoldatov/DataGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vsoldatov/DataGeneratorTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/java/vsoldatov/DataGeneratorTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vsoldatov/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/java/vsoldatov/ExampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vsoldatov/NegativeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/java/vsoldatov/NegativeTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vsoldatov/PositiveTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/java/vsoldatov/PositiveTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vsoldatov/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/java/vsoldatov/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/namesOfFiles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/resources/namesOfFiles.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testng-groups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/resources/testng-groups.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testng-methods.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/resources/testng-methods.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testng-packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/test/resources/testng-packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vsoldatov.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/vsoldatov.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,7 +104,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569399833088" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestNG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -167,14 +112,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/TestNG" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/JUnit" />
-    </key>
   </component>
-  <component name="RunManager" selected="TestNG.DataGeneratorTests.dataGeneratorTest">
+  <component name="RunManager" selected="TestNG.DataGeneratorTests">
     <configuration name="DataGeneratorTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="vsoldatov" />
       <extension name="coverage">
@@ -258,10 +199,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DataGeneratorTests" />
         <item itemvalue="TestNG.DataGeneratorTests.dataGeneratorTest" />
         <item itemvalue="TestNG.DataGeneratorTests.dataGeneratorFromFileTest" />
         <item itemvalue="TestNG.DataGeneratorTests.dataGeneratorTest1" />
-        <item itemvalue="TestNG.DataGeneratorTests" />
         <item itemvalue="TestNG./home/venom/IdeaProjects/TestNGandJunit/src/test/resources/testng-packages.xml" />
       </list>
     </recent_temporary>
@@ -368,7 +309,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/JUnit/src/test/java/vsoldatov/DataGeneratorTests.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/vsoldatov/DataGeneratorTests.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
